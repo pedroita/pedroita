@@ -7,6 +7,7 @@
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software
 - 🌱 Estudando Kotlin ,SQL ,JavaScript
+- 🏡 Russas-CE
 
  <div>
   <a href="https://github.com/pedroita">
