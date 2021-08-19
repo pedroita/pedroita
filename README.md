@@ -3,7 +3,7 @@
 
 **pedroita/pedroita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software
 - 🌱 Estudando Kotlin ,SQL ,JavaScript
