@@ -6,7 +6,7 @@
 
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software
-- 🌱 Estudando Kotlin ,SQL ,JavaScript
+- 🌱 Estudando Kotlin ,SQL ,JavaScript,UML
 - 🏡 Russas-CE
 
  <div>
