@@ -6,7 +6,7 @@
 
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
-- 🌱 Estudando JavaScript.
+- 🌱 Estudando JavaScript,Python e Padrões de projetos e Redes de computadores.
 - 💼 Trabalhando na construnção de  um chatbot  chamado de (INFORUSSAS).
 - 🏡 Russas-CE.
 
