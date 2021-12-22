@@ -7,7 +7,7 @@
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
 - 🌱 Estudando JavaScript,Python, React.
-- 💼 Trabalhando na construnção de  um chatbot  chamado de (INFORUSSAS).
+- 💼  Front-end Developer at Fundação ASTEF
 - 🏡 Russas-CE.
 
  <div>
