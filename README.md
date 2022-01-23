@@ -7,7 +7,7 @@
 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
 - 🌱 Estudando JavaScript,Python, React.
-- 💼  Front-end Developer at Fundação ASTEF
+- 💼  Front-end Developer at Fundação ASTEF and Back-end Developer at FitBank 450
 - 🏡 Russas-CE.
 
  <div>
