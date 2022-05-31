@@ -4,7 +4,7 @@
 
 
 
-
+- 🎯 Busco desenvolver novas tecnologias que possam transforma a tecnologia da informação. 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
 - 🌱 Estudando JavaScript,Python, React,Angula.
 - 💼 Back-end Developer at FitBank 450
