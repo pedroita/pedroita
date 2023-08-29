@@ -7,7 +7,7 @@
 - 🎯 Busco desenvolver novas tecnologias. 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
 - 🌱 Estudando JavaScript,Python, React,Angula.
-- 💼 Back-end Developer at FitBank 450
+- 💼 Back-end Developer 
 - 🏡 Russas-CE.
 
  <div>
