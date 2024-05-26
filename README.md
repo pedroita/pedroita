@@ -3,7 +3,6 @@
 
 
 
-- 📄 Engenheiro de Software | Gerente de Projetos | Analista Agil Tem experiência na área de Ciência da Computação, com ênfase em Ciência da Computação, atuando principalmente nos seguintes temas: chatbot, avaliação de usabilidade e heurísticas de nielsen. Sou um profissional dedicado com experiência sólida em desenvolvimento de software e gestão de projetos. Anteriormente, atuei como Desenvolvedor de Software, destacando-me na criação e manutenção de APIs e micro serviços, utilizando tecnologias como SQL Server e .Net Framework. Minha jornada profissional inclui também contribuições significativas como Analista de Suporte de Sistemas Trainee. Como Bolsista de Iniciação Acadêmica na Universidade Federal do Ceará, participei do projeto LTI, destacando-me na gestão de projetos e trabalho em equipe, resultando na criação do InfoRussas, um bot de ajuda reconhecido estadualmente. Na FASTEF, como Front-end Developer, contribuí para o projeto revolucionário Open Source Banking, demonstrando minha paixão por soluções inovadoras. Estou sempre em busca de novos desafios e colaborações em ambientes dinâmicos. Vamos conectar-nos e explorar oportunidades para impulsionar a inovação e o sucesso juntos!
 - 🎯 Busco desenvolver novas tecnologias. 
 - 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
 - 🌱 Estudando Python.
