@@ -4,9 +4,9 @@
 
 
 - 🎯 Busco desenvolver novas tecnologias. 
-- 👨‍🎓 Engenharia de Software UFC.
+- 👨‍🎓  Engenharia de Software UFC.
 - 🌱 Estudando Python.
-- 💼 Back-end Developer 
+- 💼 CTO CHEMALL 
 - 🏡 Russas-CE.
 
  <div>
