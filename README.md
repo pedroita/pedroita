@@ -5,7 +5,6 @@
 
 - 🎯 Busco desenvolver novas tecnologias. 
 - 👨‍🎓  Engenharia de Software UFC.
-- 🌱 Estudando Python.
 - 💼 CTO CHEMALL 
 - 🏡 Russas-CE.
 
