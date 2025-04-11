@@ -4,7 +4,7 @@
 
 
 - 🎯 Busco desenvolver novas tecnologias. 
-- 🔭Atualmente estou terminado a minha graduação em Engenharia de Software.
+- 👨‍🎓 Engenharia de Software UFC.
 - 🌱 Estudando Python.
 - 💼 Back-end Developer 
 - 🏡 Russas-CE.
